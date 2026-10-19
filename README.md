@@ -1,5 +1,4 @@
 LiveKit + Dify Voice Assistant
-
 A voice assistant built with LiveKit and Dify, using Retrieval-Augmented Generation (RAG) to answer questions from a knowledge base.
 
 Project Overview
